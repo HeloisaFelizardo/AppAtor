@@ -1,0 +1,4 @@
+Passos para executar este aplicativo.
+
+1º Passo - Abra esta pasta no terminal e execute o comando 'npm install'.
+2º Passo - Execute o comando 'npx expo start'.
